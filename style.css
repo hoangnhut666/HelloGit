@@ -9,7 +9,8 @@ p{
     font-weight: bold;
 }
 
-nav{
-    background-color: lightgray;
-    padding: 10px;
+body{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
 }
