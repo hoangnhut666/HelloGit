@@ -8,3 +8,8 @@ p{
     text-align: center;
     font-weight: bold;
 }
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+}
