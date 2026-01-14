@@ -1,3 +1,8 @@
 h1{
-    color: green;
+    color: yellow;
+}
+
+p{
+    font-size: 18px;
+    color: blue;
 }
