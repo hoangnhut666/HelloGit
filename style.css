@@ -8,3 +8,14 @@ p{
     text-align: center;
     font-weight: bold;
 }
+
+navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+body{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
