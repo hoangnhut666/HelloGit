@@ -8,3 +8,8 @@ p{
     text-align: center;
     font-weight: bold;
 }
+
+navbar {
+    background-color: #333;
+    overflow: hidden;
+}
