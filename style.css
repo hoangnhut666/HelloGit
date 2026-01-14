@@ -8,3 +8,9 @@ p{
     text-align: center;
     font-weight: bold;
 }
+
+body{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
